@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sample-dadi",
+    "walk": {
+      "title": "Dadi ji's slow loop",
+      "intro": "Come, beta. Shoes on, phone in the pocket. We are only going to walk slowly and look at ordinary things.",
+      "stops": [
+        { "emoji": "🚶", "kind": "walk", "title": "Slow start", "say": "Walk at half your usual speed. If somebody overtakes you, let them. Today you are not late for anything.", "minutes": 4 },
+        { "emoji": "🌳", "kind": "look", "title": "Three trees", "say": "Find three different trees. Don't worry about their names. Notice which one has the oldest looking bark.", "minutes": 5 },
+        { "emoji": "👂", "kind": "listen", "title": "Count the sounds", "say": "Stand still and count the different sounds you can hear. A crow, a scooter, someone's pressure cooker, it all counts.", "minutes": 4 },
+        { "emoji": "🍂", "kind": "touch", "title": "Something rough", "say": "Find something rough to touch, a wall or some bark. Press your palm on it for a moment. Your hands like the outdoors too, beta.", "minutes": 3 },
+        { "emoji": "🪑", "kind": "sit", "title": "Just sit", "say": "Find somewhere to sit, or lean. Look at one thing until it stops being boring. Then keep looking.", "minutes": 4 }
+      ],
+      "outro": "Wah, beta. See, the world was still here. Now go home and drink your chai.",
+      "notice": "Which sound was the farthest away?"
+    },
+    "meta": { "persona": "dadi", "lang": "en", "minutes": 20, "model": "hand-written sample", "ms": 0, "online": false, "phase": "day", "ritu": "Sharad", "placesUsed": 0, "tts": "en-IN", "sample": true }
+  },
+  {
+    "id": "sample-jasoos",
+    "walk": {
+      "title": "Case of the quiet gully",
+      "intro": "Detective, aaj ek case hai. Phone jeb mein rakho. Hum bas ek gali ka rahasya suljhane nikle hain.",
+      "stops": [
+        { "emoji": "🕵️", "kind": "walk", "title": "Investigation shuru", "say": "Dheere chalo, jaise tumhe kuch pata hai jo kisi ko nahi pata. Har mod par ruko aur dekho, kuch alag hai kya?", "minutes": 6 },
+        { "emoji": "👀", "kind": "look", "title": "Pehla suraag", "say": "Ek aisi cheez dhundo jo sabko dikhti hai par koi dekhta nahi. Purani deewar, tooti khidki, kuch bhi. Wahi tumhara pehla suraag hai.", "minutes": 6 },
+        { "emoji": "👂", "kind": "listen", "title": "Gawah", "say": "Ek minute ruko aur sunno. Koi to gawah hai yahan. Kaun si awaaz sabse door se aa rahi hai?", "minutes": 6 },
+        { "emoji": "🌤️", "kind": "look", "title": "Parchhaiyan", "say": "Apni parchhai ko dekho. Kya wo tumse zyada tez chal rahi hai? Ek aur parchhai dhundo jo hil rahi ho.", "minutes": 6 },
+        { "emoji": "🪑", "kind": "sit", "title": "Case closed", "say": "Kahin baith jao. Culprit mil gaya: ek gilehri. Lekin wo bhi sirf apna kaam kar rahi thi.", "minutes": 6 }
+      ],
+      "outro": "Case closed, detective. Ab ghar chalo, aur chai peekar report likh lo.",
+      "notice": "Aaj ka sabse bada suraag kya tha?"
+    },
+    "meta": { "persona": "jasoos", "lang": "hinglish", "minutes": 30, "model": "hand-written sample", "ms": 0, "online": false, "phase": "day", "ritu": "Sharad", "placesUsed": 0, "tts": "en-IN", "sample": true }
+  },
+  {
+    "id": "sample-maun",
+    "walk": {
+      "title": "धीमी चाल",
+      "intro": "फ़ोन जेब में रख दीजिए। आज हम बस धीरे-धीरे चलेंगे।",
+      "stops": [
+        { "emoji": "🚶", "kind": "walk", "title": "धीमी चाल", "say": "आराम से चलिए। हर क़दम पर पैर के नीचे की ज़मीन महसूस कीजिए।", "minutes": 5 },
+        { "emoji": "👂", "kind": "listen", "title": "आवाज़ें", "say": "रुकिए। कान खोल दीजिए। कितनी आवाज़ें हैं, बस गिन लीजिए।", "minutes": 4 },
+        { "emoji": "🌳", "kind": "look", "title": "एक पेड़", "say": "एक पेड़ चुनिए। उसे ऐसे देखिए जैसे पहली बार देख रहे हों।", "minutes": 3 },
+        { "emoji": "🪑", "kind": "sit", "title": "ठहरना", "say": "कहीं बैठ जाइए। कुछ मत कीजिए। बस साँस लीजिए।", "minutes": 3 }
+      ],
+      "outro": "अब लौट चलिए। दुनिया वहीं थी, आप भी।",
+      "notice": "सबसे धीमी चीज़ कौन-सी थी?"
+    },
+    "meta": { "persona": "maun", "lang": "hi", "minutes": 15, "model": "hand-written sample", "ms": 0, "online": false, "phase": "day", "ritu": "Sharad", "placesUsed": 0, "tts": "hi-IN", "sample": true }
+  }
+]
